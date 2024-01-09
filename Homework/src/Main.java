@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        String str = "Paperino";
+        String str = "Paperin";
         int year = 2023;
         System.out.println(oddEvenString(str));
         System.out.println(isLeapYear(year));
